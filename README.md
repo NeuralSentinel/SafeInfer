@@ -1,2 +1,1 @@
-# SafeInfer
-SafeInfer: Context Adaptive Decoding Time Safety Alignment for Large Language Models
+# SafeInfer: Context Adaptive Decoding Time Safety Alignment for Large Language Models
